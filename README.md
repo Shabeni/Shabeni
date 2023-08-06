@@ -2,7 +2,7 @@
 #### Web Development
  
 
-Hi, I'm Abdelhak, a marketing and multimedia student from Tunisia. I have a passion for learning languages and frameworks like Pyhon or Symfony as well as work in Wordpress
+Hi, I'm Abdelhak, a marketing and multimedia student from Tunisia. I have a passion for learning languages and frameworks like Python or Symfony as well as work in Wordpress
 
 I am always looking for new challenges and opportunities to learn and grow. I am confident that my passion for learning and my
 dedication to my craft will make me a valuable asset to any team.
